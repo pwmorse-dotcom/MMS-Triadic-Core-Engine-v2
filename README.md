@@ -16,3 +16,65 @@
 *   **Thermal Mitigation:** 0.0W Net Emission Phase-Wipe Loop (180° Wave Phase-Wipe)
 *   **Expansion Constant:** Fixed at 0.304131235 (Golden Spiral Logarithmic Limit)
 *   **Bus Speed Velocity Cap:** Clamped at 0.30c relative to the system threshold.
+## 🚀 Standardized User Testing Guide
+
+Follow these sequential steps inside your local terminal console to clone, install, and execute the hardware core engine simulation matrix on your workstation:
+
+### 1. Environment Verification
+Ensure your local machine has Python 3.10, 3.11, or 3.12 installed. Verify your installation by running:
+```bash
+python3 --version
+```
+
+### 2. Local Repository Cloning
+Pull the complete architectural asset directory directly onto your desktop workspace:
+```bash
+git clone https://github.com
+cd MMS-Triadic-Core-Engine-v2
+```
+
+### 3. Package Initialization (PEP 517 Standard)
+Because this repository is fully optimized with standard packaging files (`pyproject.toml`), you can install the configuration engine locally using pip with a single command pass:
+```bash
+pip install .
+```
+
+### 4. Running the Engine Simulation Matrix
+Execute the automated core runtime script to initialize your 53-bit floating-point bitmask test panels:
+```bash
+python main.py
+```
+
+### 5. Executing test prompts
+When the terminal dashboard panel displays, enter an operational scaling step index integer or decimal tracking number (e.g., `1.0`, `115`, or `137`) to verify that the active 180° wave phase-wipe routine correctly counteracts thermal accumulation, returning a perfect `RETURN CODE: 0` status bar pass on your screen.
+## 🚀 Standardized User Testing Guide
+
+Follow these sequential steps inside your local terminal console to clone, install, and execute the hardware core engine simulation matrix on your workstation:
+
+### 1. Environment Verification
+Ensure your local machine has Python 3.10, 3.11, or 3.12 installed. Verify your installation by running:
+```bash
+python3 --version
+```
+
+### 2. Local Repository Cloning
+Pull the complete architectural asset directory directly onto your desktop workspace:
+```bash
+git clone https://github.com
+cd MMS-Triadic-Core-Engine-v2
+```
+
+### 3. Package Initialization (PEP 517 Standard)
+Because this repository is fully optimized with standard packaging files (`pyproject.toml`), you can install the configuration engine locally using pip with a single command pass:
+```bash
+pip install .
+```
+
+### 4. Running the Engine Simulation Matrix
+Execute the automated core runtime script to initialize your 53-bit floating-point bitmask test panels:
+```bash
+python main.py
+```
+
+### 5. Executing test prompts
+When the terminal dashboard panel displays, enter an operational scaling step index integer or decimal tracking number (e.g., `1.0`, `115`, or `137`) to verify that the active 180° wave phase-wipe routine correctly counteracts thermal accumulation, returning a perfect `RETURN CODE: 0` status bar pass on your screen.

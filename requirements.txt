@@ -1,0 +1,8 @@
+# ==============================================================================
+# MMS TRIADIC HARDWARE DATA ENGINE DEPENDENCY MATRIX (RC: 0)
+# ==============================================================================
+# Core calculations utilize native Python mathematics libraries. 
+# Optional performance optimization layers are pinned below:
+# ==============================================================================
+numpy>=1.24.0      # For advanced matrix tensor manipulation arrays
+setuptools>=61.0.0 # Standard deployment tools for local pip installation loops

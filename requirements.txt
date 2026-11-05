@@ -4,5 +4,5 @@
 # Core calculations utilize native Python mathematics libraries. 
 # Optional performance optimization layers are pinned below:
 # ==============================================================================
-numpy>=1.24.0      # For advanced multi-scale matrix tensor array manipulation
-setuptools>=61.0.0 # Standard deployment tools for 14-tier pip installation loops
+numpy>=1.24.0
+setuptools>=61.0.0
